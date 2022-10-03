@@ -2,7 +2,7 @@
 Este repositorio contiene ejercicios básicos de Python
 
 
-## Ejercicio mas relevante: Bibbliotecas para manejo de sensores
+## Ejercicio mas relevante: Bibliotecas para manejo de sensores
 
 Como primera parte tenemos que considerar lo siguiente
 
